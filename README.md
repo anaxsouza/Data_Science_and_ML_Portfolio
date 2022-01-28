@@ -40,11 +40,11 @@ Repository containing portfolio of data science projects completed by me for aca
 - ### Nature Inspired Optimization: 
 
 	- __Python__
-		- [Artificial Bee Colony](https://github.com/anaxsouza/Data_Science_and_ML_Portfolio/blob/main/ABC.py):
-		- [Ant Colony Optimization](https://github.com/anaxsouza/Data_Science_and_ML_Portfolio/blob/main/ACO.py):
-		- [Differential Evolution](https://github.com/anaxsouza/Data_Science_and_ML_Portfolio/blob/main/DE.py):
-		- [Genetic Algorithm](https://github.com/anaxsouza/Data_Science_and_ML_Portfolio/blob/main/GA.py):
-		- [Particle Swarm Optimization](https://github.com/anaxsouza/Data_Science_and_ML_Portfolio/blob/main/PSO.py): 
-		- [Social Spiders Optimization](https://github.com/anaxsouza/Data_Science_and_ML_Portfolio/blob/main/SSO.py): 
+		- [Artificial Bee Colony](https://github.com/anaxsouza/Data_Science_and_ML_Portfolio/blob/main/ABC.py)
+		- [Ant Colony Optimization](https://github.com/anaxsouza/Data_Science_and_ML_Portfolio/blob/main/ACO.py)
+		- [Differential Evolution](https://github.com/anaxsouza/Data_Science_and_ML_Portfolio/blob/main/DE.py)
+		- [Genetic Algorithm](https://github.com/anaxsouza/Data_Science_and_ML_Portfolio/blob/main/GA.py)
+		- [Particle Swarm Optimization](https://github.com/anaxsouza/Data_Science_and_ML_Portfolio/blob/main/PSO.py) 
+		- [Social Spiders Optimization](https://github.com/anaxsouza/Data_Science_and_ML_Portfolio/blob/main/SSO.py)
 
 	_Tools: Optproblems_
